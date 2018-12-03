@@ -2,4 +2,4 @@ The goal of the project is to predict the sentiment of phrases using the labeled
 The initial phase of the project will be focusing on getting the best accuracy results using the CNN-LSTM architecture, Then other architectures will be explored to further improve on CNN-LSTM.
 
 * *** Arch ***
-    <img src="images/sentiment_analysis.jpg" alt="Drawing" style="width: 400px;"/>
+    <img src="image/sentiment_analysis.jpg" alt="Drawing" style="width: 400px;"/>
